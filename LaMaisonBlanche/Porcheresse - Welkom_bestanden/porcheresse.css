@@ -1,0 +1,39 @@
+BODY {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 11px
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 11px
+}
+TH {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 11px
+}
+BODY {
+	MARGIN-TOP: 10px
+}
+A {
+	COLOR: #000000; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+.style2 {
+	FONT-FAMILY: "Monotype Corsiva"; FONT-SIZE: 42px
+}
+.underline {
+	TEXT-DECORATION: underline
+}
+.mini {
+	FONT-SIZE: 9px
+}
+.rood {
+	COLOR: #ff0000
+}
